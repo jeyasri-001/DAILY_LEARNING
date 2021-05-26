@@ -17,7 +17,7 @@ My Growth Proof
       ---- | ----- |
       1 | [Python Language Introduction](https://www.geeksforgeeks.org/python-language-introduction/)
       2 | [Different Python IDEs and Code Editors](https://www.geeksforgeeks.org/different-python-ides-and-code-editors/)
-jpg
+
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Elevate/WhatsApp%20Image%202021-05-26%20at%201.03.45%20PM.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Lumosity/WhatsApp%20Image%202021-05-26%20at%201.03.45%20PM(1).jpeg)
 
