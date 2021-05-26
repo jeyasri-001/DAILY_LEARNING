@@ -27,7 +27,7 @@ My Growth Proof
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Leetcode/FireShot%20Capture%20146%20-%20To%20Lower%20Case%20-%20LeetCode%20-%20leetcode.com.png)
 
-- 🏃 [Walking -> 6701 Steps ~ 5.06 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20140-160/d159walking.jpg) 
+- 🏃 [Walking -> 6701 Steps ~ 5.06 km (Physical activity)](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Workout/WhatsApp%20Image%202021-05-26%20at%208.28.52%20PM.jpeg) 
 - 👂🏻 [Watched a Youtube video "Master Your Mind Tamil | Can't Hurt Me Tamil | Part [1/2] | David Goggins Motivation Tamil"](https://www.youtube.com/watch?v=jp_CSPtSQWY)
 
 ***
