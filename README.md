@@ -1,12 +1,13 @@
 # Learning_Progress
 My Growth Proof 
 ***
->“Success is not final; failure is not fatal: It is the courage to continue that counts”😇
+
 
 <details>
   <summary>Day 01 - 10 ~ May 26, 2021 - Jun 4, 2021</summary>
 <p>
 
+>“Success is not final; failure is not fatal: It is the courage to continue that counts”😇
 <details>
 <summary>Day 1</summary>
 <p>
@@ -33,7 +34,7 @@ My Growth Proof
 ***
 </p></details>
 
->“Success is not final; failure is not fatal: It is the courage to continue that counts”😇
+>“you can,you will”😇
 
 
 <details>
