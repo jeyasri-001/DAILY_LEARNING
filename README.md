@@ -49,8 +49,6 @@ My Growth Proof
 - ✔️ Hackerrank
   - ✔️ [Completed 2 Question in hackerrank Database language challenge](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Hackerrank/FireShot%20Capture%20160%20-%20Basics%20of%20Sets%20and%20Relations%20%234%20-%20HackerRank%20-%20www.hackerrank.com.png)
   - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Hackerrank/FireShot%20Capture%20154%20-%20Python%20If-Else%20-%20HackerRank%20-%20www.hackerrank.com.png)
-- ✔️ LeetCode
-  - ✔️ [Completed one problem in leet code](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Leetcode/FireShot%20Capture%20146%20-%20To%20Lower%20Case%20-%20LeetCode%20-%20leetcode.com.png)
 
 - 🏃 [Walking -> 4133 Steps ~ 3.06 km (Physical activity)](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Workout/DAY2-WO.jpeg) 
 - 👂🏻 [Read a book- "How to Avoid Loss and Earn Consistently in the stock market"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjLrfCLlurwAhXZFLcAHV3YCLEQFjAAegQIAxAD&url=https%3A%2F%2Fwww.amazon.in%2FAvoid-Consistently-Stock-Market-Understand%2Fdp%2F1482850885&usg=AOvVaw3k8p0pjFOcv16c08nFxHuz)
