@@ -55,3 +55,25 @@ My Growth Proof
 
 ***
 </p></details>
+
+>“This world is full of surprises”😇
+
+
+<details>
+<summary>Day 3</summary>
+<p>
+
+- 🐱‍💻 [15 Days of Code | Day 3 | Python Warriors](https://youtu.be/ZvBOCE73b98)
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Elevate/day%203.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Lumosity/day3.jpeg)
+
+- ✔️ Hackerrank
+  - ✔️ [Completed 2 Question in hackerrank Database language challenge](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Hackerrank/FireShot%20Capture%20166%20-%20Basics%20of%20Sets%20and%20Relations%20%236%20-%20HackerRank%20-%20www.hackerrank.com.png)
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Hackerrank/FireShot%20Capture%20163%20-%20Arithmetic%20Operators%20-%20HackerRank%20-%20www.hackerrank.com.png)
+
+- 🏃 Workout -> 30mins (Physical activity)
+- 👂🏻 Read a book- "Think and grow rich" -> 6 pages
+
+***
+</p></details>
