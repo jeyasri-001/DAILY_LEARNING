@@ -77,3 +77,27 @@ My Growth Proof
 
 ***
 </p></details>
+
+>“Work Hard till you satisfy your Ego”😇
+
+
+<details>
+<summary>Day 4</summary>
+<p>
+
+- 🐱‍💻 [15 Days of Code | Day 4 | Python Warriors](https://youtu.be/nu552B84DjY)
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Elevate/day4.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Lumosity/day%204.jpeg)
+
+- ✔️ Hackerrank
+  - ✔️ [Completed 2 Question in hackerrank Database language challenge](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Hackerrank/FireShot%20Capture%20172%20-%20Basics%20of%20Sets%20and%20Relations%20%237%20-%20HackerRank%20-%20www.hackerrank.com.png)
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Hackerrank/FireShot%20Capture%20169%20-%20Python_%20Division%20-%20HackerRank%20-%20www.hackerrank.com.png)
+
+- 🏃 Workout -> 1hr (Physical activity)
+- 🏃 Walking -> [6102 steps ~ 4.66km](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Workout/dayy%204.jpeg)
+- 👂🏻 Read a book- "Think and grow rich" -> 6 pages
+- ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗
+
+***
+</p></details>
