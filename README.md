@@ -123,3 +123,25 @@ My Growth Proof
 
 ***
 </p></details>
+
+>“Beleive Yourself”😇
+
+
+<details>
+<summary>Day 6</summary>
+<p>
+
+- 🐱‍💻 [15 Days of Code | Day 6 | Python Warriors](https://youtu.be/nu552B84DjY)
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Elevate/day%205.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Lumosity/day5.jpeg)
+
+- ✔️ Hackerrank
+  - ✔️ Completed MCQ's in hackerrank Database language challenge
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Hackerrank/FireShot%20Capture%20175%20-%20Loops%20-%20HackerRank%20-%20www.hackerrank.com.png)
+- Solved 2 problems in skillrack
+- 👂🏻 Read a book- "Think and grow rich" -> 6 pages
+- ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗
+
+***
+</p></details>
