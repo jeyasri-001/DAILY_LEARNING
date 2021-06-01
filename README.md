@@ -145,3 +145,30 @@ My Growth Proof
 
 ***
 </p></details>
+
+>“Beat your ego”😇
+
+
+<details>
+<summary>Day 7</summary>
+<p>
+
+- 🐱‍💻 [15 Days of Code | Day 7 | Python Warriors](https://youtu.be/nu552B84DjY)
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Elevate/day_7.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Lumosity/DAY%207.jpeg)
+
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Hackerrank/day7.png)
+  
+- Solved 3 problems in skillrack
+
+- 🏃 Workout -> [1hr](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Workout/DAY_7%20(2).jpeg)
+- 🏃 Walking -> [9447 steps ~ 7.23km](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Walking/DAY7.jpeg)
+
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Leetcode/DAY%207.png)
+
+
+***
+</p></details>
