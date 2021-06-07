@@ -181,8 +181,8 @@ My Growth Proof
 <p>
 
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Elevate/day_7.jpeg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Lumosity/DAY%207.jpeg)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Elevate/DAy8%20(2).jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Lumosity/day8.jpeg)
 
 - ✔️ Hackerrank
   - ✔️ [Completed 1 Question in hackerrank c language challenge](https://github.com/jeyasri-001/Learning_Progress/blob/main/proofs/Hackerrank/day7.png)
